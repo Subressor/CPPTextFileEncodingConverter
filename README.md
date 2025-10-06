@@ -58,7 +58,3 @@ Useful for Unreal Engine projects, but works for any codebase needing consistent
 ## Known limitations
 - Encoding detection beyond BOM is heuristic; rare encodings may fail
 - Read-only files are reported but not modified
-
-## License
-Choose a license (MIT is common for small utilities). For example:
-- MIT: https://opensource.org/licenses/MIT
