@@ -1,4 +1,7 @@
-﻿# File Format Standardization Utility (UTF‑8 no BOM, CRLF)
+﻿# CPPTextFileEncodingConverter
+A basic C# Utility that will standardise all CPP files in a folder to UTF-8 without BOM
+
+# File Format Standardization Utility (UTF‑8 no BOM, CRLF)
 
 A small Windows console tool that converts source files to:
 - Encoding: UTF‑8 without BOM (recommended by Unreal Engine)
