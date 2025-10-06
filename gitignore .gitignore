@@ -1,0 +1,36 @@
+﻿# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+TestResult*/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# NuGet
+packages/
+*.nupkg
+# Auto-generated during restore
+project.lock.json
+project.assets.json
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+*.ipch
+*.opendb
+*.db
+*.cache
+*.pdb
+*.ilk
+
+# OS
+.DS_Store
+Thumbs.db

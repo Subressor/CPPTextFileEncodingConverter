@@ -1,0 +1,17 @@
+﻿# Treat these as text and normalize on checkout (Windows CRLF locally)
+*.h     text eol=crlf
+*.hpp   text eol=crlf
+*.cpp   text eol=crlf
+*.cc    text eol=crlf
+*.cxx   text eol=crlf
+*.cs    text eol=crlf
+
+# Binary files
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.bmp   binary
+*.ico   binary
+*.exe   binary
+*.dll   binary
+*.pdb   binary

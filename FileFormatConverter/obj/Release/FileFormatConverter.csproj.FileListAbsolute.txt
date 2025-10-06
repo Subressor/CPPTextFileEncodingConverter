@@ -1,0 +1,7 @@
+C:\Blakes_Game\Misc\TextFileEncodingConverter\FileFormatConverter\FileFormatConverter\bin\Release\FileFormatConverter.exe.config
+C:\Blakes_Game\Misc\TextFileEncodingConverter\FileFormatConverter\FileFormatConverter\bin\Release\FileFormatConverter.exe
+C:\Blakes_Game\Misc\TextFileEncodingConverter\FileFormatConverter\FileFormatConverter\bin\Release\FileFormatConverter.pdb
+C:\Blakes_Game\Misc\TextFileEncodingConverter\FileFormatConverter\FileFormatConverter\obj\Release\FileFormatConverter.csproj.AssemblyReference.cache
+C:\Blakes_Game\Misc\TextFileEncodingConverter\FileFormatConverter\FileFormatConverter\obj\Release\FileFormatConverter.csproj.CoreCompileInputs.cache
+C:\Blakes_Game\Misc\TextFileEncodingConverter\FileFormatConverter\FileFormatConverter\obj\Release\FileFormatConverter.exe
+C:\Blakes_Game\Misc\TextFileEncodingConverter\FileFormatConverter\FileFormatConverter\obj\Release\FileFormatConverter.pdb
